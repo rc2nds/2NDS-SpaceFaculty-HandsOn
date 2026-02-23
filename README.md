@@ -25,6 +25,6 @@ Contributing
 - Feel free to contribute via pull requests to enhance the workshop.
 
 Contact
-- For inquiries, reach out to r.carlini@2ndspace.eu and virginia@2ndspace.eu.
+- For inquiries, reach out to r.carlini@2ndspace.eu.
 
 Happy building! 🛰️✨
